@@ -11,9 +11,6 @@
 
 'use strict';
 
-var players = ['H', 'C'];
-var winner  = undefined;
-
 var playerBtns = document.querySelectorAll('#player > button');
 var computerBtns = document.querySelectorAll('#computer > button');
 
